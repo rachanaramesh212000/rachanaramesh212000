@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rachana M R</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachanaramesh212000" alt="rachanaramesh212000" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+
+- 🔭 I’m working on ML & Power BI projects
+  
+- 🌱 Currently learning Advanced SQL & Dashboards
 
 - 👨‍💻 All of my projects are available at [https://github.com/rachanaramesh212000](https://github.com/rachanaramesh212000)
 
